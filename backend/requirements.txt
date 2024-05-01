@@ -1,0 +1,7 @@
+fastapi
+polars
+pandas
+sqlalchemy
+psycopg2-binary
+pyarrow
+uvicorn
